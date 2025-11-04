@@ -1,5 +1,5 @@
 # DAA_GroupProject-LA2
-Smart Delivery Route Optimization System
+Smart Logistics System
 
 Team Members : 
 1) Soham Adgokar (A2-B2-28)
