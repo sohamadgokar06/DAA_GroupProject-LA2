@@ -9,9 +9,9 @@ Team Members :
 Algorithms Used :
 1) Kruskal's Algorithm :
 -  For designing cheapest cost construction road networks between cities.
-3) Dijsktra's Algorithm :
+2) Dijsktra's Algorithm :
 -  Designing shortest delivery routes from the warehouse.
-5) Fractional Knapsack :
+3) Fractional Knapsack :
 -  For optimizing vehicle load for delivery and the number of parcels.
 
 
