@@ -168,7 +168,7 @@ void fractionalKnapsack(int n, float weight[], float profit[], float capacity) {
         if (weight[i] <= cap) {
             totalProfit += profit[i];
             cap -= weight[i];
-            printf("✅ Full parcel taken (Wt: %.1f, Profit: %.1f)\n", weight[i], profit[i]);
+            printf(" Full parcel taken (Wt: %.1f, Profit: %.1f)\n", weight[i], profit[i]);
         } else {
             totalProfit += ratio[i] * cap;
             printf(" Partial parcel taken (Wt: %.1f, Profit: %.1f)\n", cap, ratio[i] * cap);
@@ -265,4 +265,5 @@ int main() {
 
     free(edges);
     return 0;
+
 }
